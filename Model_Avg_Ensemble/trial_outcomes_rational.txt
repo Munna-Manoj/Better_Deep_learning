@@ -1,0 +1,21 @@
+Topic: Model Averaging Ensemble
+Author: Manoj Pandey
+Date: 2022-12-08
+
+
+
+Dataset:synthetic_data.py
+We used scikit-learn.dataset to generate the datasets for multi-class classification problem. We added some variance within each class so that 
+we can demonstrate well the learning of our MLP and the effectiveness of ensemble method.
+
+Trial: 
+file_name: Multiclass_model_avg_ensemble.py 
+run-1: 
+
+
+
+
+
+
+Trial: 
+file_name:
